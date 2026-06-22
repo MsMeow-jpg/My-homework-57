@@ -1,0 +1,19 @@
+{
+  "name": "homework-57-rick-and-morty-http-server",
+  "version": "1.0.0",
+  "description": "Basic Node.js HTTP server using only built-in modules with Rick and Morty inspired theme.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "http",
+    "server",
+    "homework",
+    "rick-and-morty"
+  ],
+  "author": "MsMeow-jpg",
+  "license": "ISC"
+}
